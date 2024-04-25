@@ -107,7 +107,9 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT
 
-![image](https://github.com/swathisiva212/Linux-IPC-Pipes/assets/155249892/14472cf3-a02e-4181-a44a-f4fc52a6ad7b)
+![image](https://github.com/swathisiva212/Linux-IPC-Pipes/assets/155249892/d34d764a-ac16-48c6-bb90-fc951b17ceba)
+
+![image](https://github.com/swathisiva212/Linux-IPC-Pipes/assets/155249892/fd7feb39-0b87-4763-9f3f-fc23f178bb43)
 
 
 # RESULT:
